@@ -60,8 +60,6 @@
   <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=pyodolski&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=dark" width="450">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyodolski&layout=compact&hide=jupyter%20notebook&hide_border=true&theme=dark" width="450">
-     
-    </a>
   </div>
 </body>
 </html>
