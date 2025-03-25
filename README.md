@@ -8,5 +8,5 @@
 
 <img src ="https://github-readme-stats.vercel.app/api?username=pyodolski&count_private=true&show_icons=true">
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pyodolski&layout=compact&hide=JupyterNotebook">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pyodolski&layout=compact&hide=jupyter,notebook">
 
