@@ -6,5 +6,5 @@
 
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
-![Jupyo's GitHub stats] https://github-readme-stats.vercel.app/api?username=pyodolski
+![Jupyo's GitHub stats] <https://github-readme-stats.vercel.app/api?username=pyodolski>
 
