@@ -39,4 +39,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pyodolski&count_private=true&show_icons=true&hide_title=true&hide_border=true" width="450">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyodolski&layout=compact&hide=jupyter%20notebook&hide_border=true" width="450">
 </div>
-[![jupyo's 42 stats]<img src ="https://badge.mediaplus.ma/darkblue/jupyo)](https://github.com/oakoudad/badge42">
+[![jupyo's 42 stats](https://badge.mediaplus.ma/darkblue/jupyo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
