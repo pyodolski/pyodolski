@@ -51,15 +51,18 @@
   <!-- GitHub Stats Section -->
   <div align="center">
     <div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=pyodolski&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=dark" width="450">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyodolski&layout=compact&hide=jupyter%20notebook&hide_border=true&theme=dark" width="450">
+       <a href="https://github.com/oakoudad/badge42">
+      <img src="https://badge.mediaplus.ma/black/jupyo?1337Badge=off&UM6P=off" alt="jupyo's 42 stats" />
     </div>
   </div>
 
   <!-- 42 Badge -->
   <div align="center">
     <a href="https://github.com/oakoudad/badge42">
-      <img src="https://badge.mediaplus.ma/darkblue/jupyo?1337Badge=off&UM6P=off" alt="jupyo's 42 stats" />
+      <img src="https://badge.mediaplus.ma/black/jupyo?1337Badge=off&UM6P=off" alt="jupyo's 42 stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=pyodolski&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=dark" width="450">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyodolski&layout=compact&hide=jupyter%20notebook&hide_border=true&theme=dark" width="450">
+     
     </a>
   </div>
 </body>
