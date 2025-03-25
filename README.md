@@ -6,5 +6,5 @@
 
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
-<img src ="https://github-readme-stats.vercel.app/api?username=pyodolski&count_private=true&show_icons=true">%20<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pyodolski&layout=compact&hide=jupyter%20notebook">
+<img src ="https://github-readme-stats.vercel.app/api?username=pyodolski&count_private=true&show_icons=true">  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pyodolski&layout=compact&hide=jupyter%20notebook">
 
