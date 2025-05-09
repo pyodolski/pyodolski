@@ -51,12 +51,6 @@
   </div>
 
   <!-- GitHub Stats Section -->
-  <div align="center">
-    <div style="display: flex; justify-content: center; gap: 20px;">
-       <a href="https://github.com/oakoudad/badge42">
-         <img src="https://badge.mediaplus.ma/black/jupyo?1337Badge=off&UM6P=off" alt="jupyo's 42 stats" /></a>
-    </div>
-  </div>
 
   <!-- 42 Badge -->
   <div align="center">
