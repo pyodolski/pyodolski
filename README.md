@@ -53,8 +53,6 @@
   <!-- GitHub Stats Section -->
 
   <!-- 42 Badge -->
-  <div align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyodolski&layout=compact&hide=jupyter%20notebook&hide_border=true&theme=dark" width="450">
   </div>
 </body>
 </html>
