@@ -13,7 +13,7 @@
 
   <!-- Tech Stacks Section -->
   <div align="center">
-    <h1>📚 TECH STACKS</h1>
+    <h1>📚 TECH STACK</h1>
   </div>
 
   <div align="center">
