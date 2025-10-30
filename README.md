@@ -50,6 +50,14 @@
   </div>
 
   <!-- GitHub Stats Section -->
+  ## 📊 GitHub 활동 통계
+
+<!--GITHUB_STATS:START-->
+로딩 중입니다... (잠시 후 GitHub Actions가 여기를 실제 통계로 채웁니다)
+<!--GITHUB_STATS:END-->
+
+> 기준: 최근 1년간 커밋 / PR / 이슈 수
+
 
   <!-- 42 Badge -->
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jupyo?1337Badge=off&UM6P=off" alt="jupyo's 42 stats" /></a>
