@@ -1,25 +1,36 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jupyo GitHub</title>
 </head>
+
 <body>
   <!-- Header Section -->
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jupyo's%20GitHub" alt="header">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jupyo's%20GitHub"
+      alt="header"
+      width="100%"
+    />
   </div>
+
+  <!-- Portfolio Section -->
   <div align="center">
-  <h2>🚀 Portfolio</h2>
-  <iframe 
-    src="https://pyodolski.github.io/portfolio-2025/"
-    width="100%"
-    height="800"
-    style="border:none; max-width:1200px;"
-    loading="lazy">
-  </iframe>
-</div>
+    <h2>🚀 Portfolio</h2>
+
+    <iframe
+      src="https://pyodolski.github.io/portfolio-2025/"
+      width="100%"
+      height="800"
+      style="border: none; max-width: 1200px;"
+      loading="lazy"
+    ></iframe>
+  </div>
+</body>
+</html>
+
 
   <!-- Tech Stacks Section -->
   <div align="center">
