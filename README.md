@@ -10,6 +10,16 @@
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jupyo's%20GitHub" alt="header">
   </div>
+  <div align="center">
+  <h2>🚀 Portfolio</h2>
+  <iframe 
+    src="https://pyodolski.github.io/portfolio-2025/"
+    width="100%"
+    height="800"
+    style="border:none; max-width:1200px;"
+    loading="lazy">
+  </iframe>
+</div>
 
   <!-- Tech Stacks Section -->
   <div align="center">
