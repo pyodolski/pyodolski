@@ -18,7 +18,7 @@
 
   <!-- Portfolio Section -->
   <div align="center">
-  <h2>🚀 Portfolio</h2>
+  <h2>Portfolio</h2>
 
   <a href="https://pyodolski.github.io/portfolio-2025/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
